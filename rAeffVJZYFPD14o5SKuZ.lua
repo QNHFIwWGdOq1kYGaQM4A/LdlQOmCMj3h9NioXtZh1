@@ -1,4 +1,4 @@
-Status = "Disabled"
+Status = "Enabled"
 Emojis = {
 ["Earth"] = "🌍";
 ["Rocket"] = "🚀";
